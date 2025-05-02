@@ -1,6 +1,4 @@
 ### Pizza Business Intelligence Dashboard: A PowerBI-Driven Sales Analysis
-- **File:** `Pizza Business Analytics.pbix`
-- **Data Source:** `Pizza_Sales.xlsx`
 
 #### Overview
 The Pizza Sales Performance Dashboard delivers an in-depth visualization of sales trends and product performance for the pizza business.  
